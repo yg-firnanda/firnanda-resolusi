@@ -1,0 +1,6 @@
+RENCANA FRAMEWORK FIRNANDA
+- Bootstrap
+- Tailwind
+- Laravel
+- React.JS
+- Next.JS
