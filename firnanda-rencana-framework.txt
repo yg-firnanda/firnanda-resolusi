@@ -9,4 +9,4 @@ RENCANA FRAMEWORK FIRNANDA
 - Node JS
 - EJS
 - Express JS
-- CodeIgniter
+- Ionic
