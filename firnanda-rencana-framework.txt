@@ -4,8 +4,8 @@ RENCANA FRAMEWORK FIRNANDA
 - Laravel
 - React.JS
 - Next.JS
-- Angular
-- Angular Universal
+- Vue JS
+- Nuxt JS
 - Node JS
 - EJS
 - Express JS
